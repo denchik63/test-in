@@ -2,9 +2,3 @@
 /.htaccess
 /.idea/
 /vendor/
-.gitignore
-application/
-composer.json
-composer.phar
-index.php
-init_autoloader.php

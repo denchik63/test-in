@@ -70,7 +70,7 @@ class Token extends AbstractModel
      */
     protected function getColumns() {
         return [
-            ['s' => 'hash'],
+            ['s' => 'token'],
             ['s' => 'expired'],
         ];
     }
