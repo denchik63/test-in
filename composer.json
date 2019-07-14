@@ -1,0 +1,13 @@
+{
+    "minimum-stability":"stable",
+
+    "require":{
+
+    },
+
+    "autoload": {
+        "psr-0": {
+            "Application\\": "application/src/"
+        }
+    }
+}
